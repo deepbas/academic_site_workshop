@@ -8,5 +8,8 @@ I am an academic, currently in my fifth year PhD in Applied Statistics at the Un
 ## Current Interests and Projects:
 
 - Dissertation Research
+My Dissertation deals with finite sample properties of variance estimators of Markov Chain Monte Carlo (MCMC).
+
+
 - [GitHub Pages](http://deepbas.github.io)
 - Academia
