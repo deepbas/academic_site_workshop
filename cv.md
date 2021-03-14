@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Teaching Assistant 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - 2021`
+__University of California Riverside__
+PhD in Statistics (In progress)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2013-2015`
+__University of Innsbruck__
+Erasmus Mundus Masters in Astrophysics 
 
 ## Awards
 
