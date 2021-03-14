@@ -26,45 +26,19 @@ Erasmus Mundus Category A Fellowship
 
 ## Publications
 
--- A list is also available [online](https://scholar.google.com/citations?user=9JtQBSEAAAAJ) --
+`2012`
+Fixing the U-band photometry of Type Ia supernovae, The Astronomical Journal 145
 
-### Journals
+`2012`
+A STUDY OF PROPERTIES OF TYPE IA SUPERNOVA AND THE CALIBRATION OF MULTIBAND PHOTOMETRY, Undergraduate and Honors Research
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+A list is also available [online](https://scholar.google.com/citations?user=9JtQBSEAAAAJ) 
 
 
 ## Presentations
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
 
 
 <!-- ### Footer
